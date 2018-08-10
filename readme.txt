@@ -3,4 +3,4 @@ This text is create by XiangRong.
 
 Text can edit and commit to git.
 
-Text now on branch dev!
+Text now on master~
